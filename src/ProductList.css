@@ -12,7 +12,7 @@ body {
 
 /* Navbar */
 .navbar {
-    background-color: #615EFC;
+    background-color: #09BC8A;
     color: #fff!important;
     padding: 15px;
     display: flex;
@@ -95,7 +95,7 @@ body {
 }
 
 .product-price {
-    color: #e74c3c;
+    color: #75DDDD;
     font-size: 1.2rem;
     margin-bottom: 10px;
 }
@@ -106,7 +106,7 @@ body {
 }
 
 .product-button {
-    background-color: #e74c3c;
+    background-color: #75DDDD;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -116,13 +116,13 @@ body {
 }
 
 .product-button:hover {
-    background-color: #c0392b;
+    background-color: #75DDDD;
 }
 
 /* Pseudo-elements - Sale badge */
 .product-card::before {
     content: "SALE";
-    background-color: #e74c3c;
+    background-color: #75DDDD;
     color: #fff;
     position: absolute;
     top: 0;
@@ -208,7 +208,7 @@ body {
 /* ProductList.css */
 
 .product-button {
-    background-color: #615EFC; /* Green */
+    background-color: #09BC8A; /* Green */
     border: none;
     color: white;
     padding: 10px 20px;
@@ -222,7 +222,7 @@ body {
   }
   
   .product-button:hover {
-    background-color: #615EFC;
+    background-color: #09BC8A;
   }
   
   .product-button.added-to-cart {

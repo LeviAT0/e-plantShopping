@@ -59,7 +59,7 @@
 }
 
 .cart-item-delete {
-  background-color: #ff6961;
+  background-color: #75DDDD;
   border: none;
   color: #fff;
   font-size: 14px;
@@ -70,7 +70,7 @@
 }
 
 .cart-item-delete:hover {
-  background-color: #cc0000;
+  background-color: #508991;
 }
 /* .cart-item-button-dec{
   background-color: red;
@@ -133,7 +133,7 @@ margin-top: -50px;
   font-size: 23px;
   border: none;
   border-radius: 5px;
-  background-color: #615EFC;
+  background-color: #09BC8A;
   color: white;
   cursor: pointer;
   transition: background-color 0.3s ease;

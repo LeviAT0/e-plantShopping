@@ -82,7 +82,7 @@
   font-size: 23px;
   border: none;
   border-radius: 5px;
-  background-color: #615EFC;
+  background-color: #09BC8A;
   color: white;
   cursor: pointer;
   transition: background-color 0.3s ease;
@@ -90,7 +90,7 @@
 }
 
 .get-started-button:hover {
-  background-color: #615EFC;
+  background-color: #09BC8A;
 }
 
 /* ProductList.css */
